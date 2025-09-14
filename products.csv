@@ -1,4 +1,4 @@
-product_name,brand,price,description,image
+product_id,name,brand,price,description,image
 iPhone 14,Apple,79900,Latest iPhone with A15 Bionic chip and 6.1-inch display,https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-select-202209-6-1inch-202209_FMT_WHH
 Galaxy S23,Samsung,74999,Flagship phone with Snapdragon 8 Gen 2 processor and Dynamic AMOLED display,https://images.samsung.com/is/image/samsung/p6pim/in/sm-s911bzgcins/gallery/in-galaxy-s23-s911-sm-s911bzgcins-535988467
 Air Max Shoes,Nike,8999,Comfortable running shoes with lightweight cushioning,https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/air-max-excee-shoes.jpg
