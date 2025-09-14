@@ -1,0 +1,31 @@
+Product,Category,Brand,Description,ImageURL,combined
+Laptop,Electronics,Dell,High performance laptop for work,https://upload.wikimedia.org/wikipedia/commons/3/3a/Laptop.png,Electronics Dell High performance laptop for work
+Smartphone,Electronics,Samsung,Latest Android smartphone,https://upload.wikimedia.org/wikipedia/commons/3/3a/Smartphone.png,Electronics Samsung Latest Android smartphone
+Headphones,Electronics,Sony,Noise cancelling headphones,https://upload.wikimedia.org/wikipedia/commons/3/3e/Headphones_Icon.svg,Electronics Sony Noise cancelling headphones
+Smartwatch,Electronics,Apple,Fitness tracking smartwatch,https://upload.wikimedia.org/wikipedia/commons/0/0a/Smartwatch.png,Electronics Apple Fitness tracking smartwatch
+Tablet,Electronics,Lenovo,Portable tablet for entertainment,https://upload.wikimedia.org/wikipedia/commons/4/42/Lenovo_Tablet.png,Electronics Lenovo Portable tablet for entertainment
+T-Shirt,Clothing,Nike,Cotton casual t-shirt,https://upload.wikimedia.org/wikipedia/commons/8/89/Tshirt.svg,Clothing Nike Cotton casual t-shirt
+Jeans,Clothing,Levis,Denim jeans for everyday wear,https://upload.wikimedia.org/wikipedia/commons/0/0b/Jeans_for_men.jpg,Clothing Levis Denim jeans for everyday wear
+Jacket,Clothing,Adidas,Winter jacket for cold weather,https://upload.wikimedia.org/wikipedia/commons/0/0f/Jacket_black.jpg,Clothing Adidas Winter jacket for cold weather
+Sneakers,Footwear,Puma,Comfortable running sneakers,https://upload.wikimedia.org/wikipedia/commons/8/89/Running_shoes.png,Footwear Puma Comfortable running sneakers
+Formal Shoes,Footwear,Bata,Leather formal shoes for office,https://upload.wikimedia.org/wikipedia/commons/3/3e/Formal_shoes.png,Footwear Bata Leather formal shoes for office
+Backpack,Accessories,Wildcraft,Durable backpack for travel,https://upload.wikimedia.org/wikipedia/commons/3/3c/Backpack.jpg,Accessories Wildcraft Durable backpack for travel
+Sunglasses,Accessories,Ray-Ban,Stylish sunglasses for outdoors,https://upload.wikimedia.org/wikipedia/commons/3/3a/Sunglasses_icon.svg,Accessories Ray-Ban Stylish sunglasses for outdoors
+Watch,Accessories,Fossil,Analog wrist watch,https://upload.wikimedia.org/wikipedia/commons/3/39/Wristwatch_icon.svg,Accessories Fossil Analog wrist watch
+Necklace,Accessories,Tanishq,Gold necklace for women,https://upload.wikimedia.org/wikipedia/commons/9/9f/Necklace.png,Accessories Tanishq Gold necklace for women
+Handbag,Accessories,Gucci,Designer leather handbag,https://upload.wikimedia.org/wikipedia/commons/6/6c/Handbag.svg,Accessories Gucci Designer leather handbag
+Sofa,Home,Ikea,Comfortable living room sofa,https://upload.wikimedia.org/wikipedia/commons/2/25/Sofa_icon.svg,Home Ikea Comfortable living room sofa
+Chair,Home,Godrej,Wooden chair for dining,https://upload.wikimedia.org/wikipedia/commons/8/8e/Wooden_chair.png,Home Godrej Wooden chair for dining
+Table,Home,Durian,Study and work table,https://upload.wikimedia.org/wikipedia/commons/1/1c/Table_icon.svg,Home Durian Study and work table
+Lamp,Home,Philips,Bedside LED lamp,https://upload.wikimedia.org/wikipedia/commons/2/2e/Lamp_icon.svg,Home Philips Bedside LED lamp
+Curtains,Home,HomeTown,Decorative window curtains,https://upload.wikimedia.org/wikipedia/commons/3/37/Curtains_icon.svg,Home HomeTown Decorative window curtains
+Microwave,Electronics,LG,Kitchen microwave oven,https://upload.wikimedia.org/wikipedia/commons/0/0e/Microwave_icon.svg,Electronics LG Kitchen microwave oven
+Refrigerator,Electronics,Whirlpool,Double door refrigerator,https://upload.wikimedia.org/wikipedia/commons/2/2f/Refrigerator_icon.svg,Electronics Whirlpool Double door refrigerator
+Washing Machine,Electronics,Bosch,Automatic washing machine,https://upload.wikimedia.org/wikipedia/commons/1/15/Washing_machine_icon.svg,Electronics Bosch Automatic washing machine
+Mixer Grinder,Electronics,Preethi,Multi-purpose kitchen grinder,https://upload.wikimedia.org/wikipedia/commons/2/24/Mixer_grinder.png,Electronics Preethi Multi-purpose kitchen grinder
+Television,Electronics,Sony,Smart LED television,https://upload.wikimedia.org/wikipedia/commons/5/5e/Television.png,Electronics Sony Smart LED television
+Sports Shoes,Footwear,Nike,Shoes for running and training,https://upload.wikimedia.org/wikipedia/commons/8/89/Running_shoes.png,Footwear Nike Shoes for running and training
+Sandals,Footwear,Bata,Comfortable leather sandals,https://upload.wikimedia.org/wikipedia/commons/3/38/Sandals.jpg,Footwear Bata Comfortable leather sandals
+Slippers,Footwear,Adidas,Casual flip flop slippers,https://upload.wikimedia.org/wikipedia/commons/d/d4/Slippers.png,Footwear Adidas Casual flip flop slippers
+Cap,Accessories,Adidas,Casual baseball cap,https://upload.wikimedia.org/wikipedia/commons/1/1f/Baseball_cap.png,Accessories Adidas Casual baseball cap
+Wallet,Accessories,Tommy Hilfiger,Men’s leather wallet,https://upload.wikimedia.org/wikipedia/commons/7/7d/Wallet.png,Accessories Tommy Hilfiger Men’s leather wallet
